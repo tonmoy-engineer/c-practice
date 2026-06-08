@@ -1,2 +1,2 @@
-# c-practice
-Basic C programming practice for rebuilding programming fundamentals.
+# c-cpp-practice
+C and C++ programming practice for strengthening programming fundamentals.
