@@ -1,2 +1,2 @@
 # c-practice
-My first C programming practice
+Basic C programming practice for rebuilding programming fundamentals.
